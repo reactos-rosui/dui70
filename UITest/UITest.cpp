@@ -3,9 +3,6 @@
 #include <Vsstyle.h>
 #include <vssym32.h>
 
-#include <wil/common.h>
-#include <wil/result.h>
-
 #include <fstream>
 #include <sstream>
 #include <format>
